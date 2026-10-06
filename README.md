@@ -19,3 +19,9 @@
 4. Ne, takový rok v datech není. Rozdíl mezi růstem cen potravin a růstem mezd nebyl vyšší než 10 procentních bodů.
 
 5. Nenašla jsem tady jasnou souvislost. V některých letech rostlo HDP společně se mzdami nebo cenami potravin více, ale v jiných letech to neplatilo. Ani v následujícím roce se to pravidelně neopakovalo.
+
+## Výstupní data
+
+Data cen potravin a mezd mají společné období 2006–2018.
+
+U meziročního porovnání chybí hodnota pro první rok, protože není k dispozici předchozí rok pro porovnání.
