@@ -15,3 +15,5 @@ Mzdy v průběhu sledovaného období nerostly ve všech odvětvích nepřetrži
 V roce 2006 bylo možné za průměrnou mzdu koupit přibližně 1 313 kg chleba nebo 1 466 litrů mléka. V roce 2018 to bylo přibližně 1 365 kg chleba nebo 1 670 litrů mléka. Kupní síla tedy u obou potravin vzrostla.
 4. Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)?
 Ne. Ve sledovaném období nebyl nalezen rok, ve kterém by meziroční růst cen potravin převýšil růst mezd o více než 10 procentních bodů.
+5. Má výška HDP vliv na změny ve mzdách a cenách potravin?
+Z výsledků není patrná jednoznačná závislost mezi růstem HDP a růstem mezd nebo cen potravin ve stejném či následujícím roce. V některých letech s vyšším růstem HDP rostly výrazněji také mzdy nebo ceny, ale tento trend se neopakoval pravidelně.
