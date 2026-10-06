@@ -1,6 +1,6 @@
 # Projekt SQL
 
-## otázky
+## Otázky
 
 1. Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?
 2. Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období?
@@ -8,12 +8,14 @@
 4. Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd?
 5. Má výška HDP vliv na změny ve mzdách a cenách potravin?
 
-odpovědi:
-1. Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?
-Mzdy v průběhu sledovaného období nerostly ve všech odvětvích nepřetržitě. V některých letech a odvětvích došlo k meziročnímu poklesu mezd.
-2. Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období?
-V roce 2006 bylo možné za průměrnou mzdu koupit přibližně 1 313 kg chleba nebo 1 466 litrů mléka. V roce 2018 to bylo přibližně 1 365 kg chleba nebo 1 670 litrů mléka. Kupní síla tedy u obou potravin vzrostla.
-4. Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)?
-Ne. Ve sledovaném období nebyl nalezen rok, ve kterém by meziroční růst cen potravin převýšil růst mezd o více než 10 procentních bodů.
-5. Má výška HDP vliv na změny ve mzdách a cenách potravin?
-Z výsledků není patrná jednoznačná závislost mezi růstem HDP a růstem mezd nebo cen potravin ve stejném či následujícím roce. V některých letech s vyšším růstem HDP rostly výrazněji také mzdy nebo ceny, ale tento trend se neopakoval pravidelně.
+## Odpovědi
+
+1. Ne, mzdy nerostly každý rok. V některých odvětvích byly roky, kdy mzdy klesly oproti roku předtím.
+
+2. V roce 2006 bylo možné za průměrnou mzdu koupit asi 1 313 kg chleba nebo 1 466 litrů mléka. V roce 2018 to bylo asi 1 365 kg chleba nebo 1 670 litrů mléka. V roce 2018 se tedy dalo za průměrnou mzdu koupit více chleba a mléka.
+
+3. Nejpomaleji rostla cena krystalového cukru. Průměrná meziroční změna byla -1,92 %, takže jeho cena v průměru spíše klesala.
+
+4. Ne, takový rok v datech není. Rozdíl mezi růstem cen potravin a růstem mezd nebyl vyšší než 10 procentních bodů.
+
+5. Nenašla jsem tady jasnou souvislost. V některých letech rostlo HDP společně se mzdami nebo cenami potravin více, ale v jiných letech to neplatilo. Ani v následujícím roce se to pravidelně neopakovalo.
